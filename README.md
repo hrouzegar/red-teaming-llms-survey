@@ -37,4 +37,4 @@ For further inquiries, please reach out to:
 
 ---
 
-© 2024 Ontario Tech University. All rights reserved.
+© 2024 Hamidreza Rouzegar. All rights reserved.
