@@ -10,10 +10,6 @@ The paper covers:
 - Case studies and experimental validation of red teaming techniques
 - Practical strategies and best practices for ensuring ethical and robust AI deployment
 
-## Repository Contents
-
-- `experiments/`: Contains code examples and prompts used in our experiments.
-- `data/`: Example data or results from experiments.
 
 ## Reproducibility Note
 
